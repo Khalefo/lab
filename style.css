@@ -4,14 +4,14 @@ body{
 }
 a {
 	color: #A63400;
-}
-ul{
-	padding: 0;
-	margin-left: 45%
+	text-decoration: none;
 }
 h1{
 	text-align: center;
 	color: black;
+}
+ul{
+	list-style-type: none;
 }
 .biography{
 	margin-left: 0%;
@@ -22,5 +22,20 @@ h1{
 	background: #FF9E73;
 }
 footer{
-
+	color:#FF9E73 ;
+	text-align: center;
+}
+.header{
+	text-align: center;
+}
+.news{
+	text-align: left;
+}
+.menu{
+	text-align: center;
+	border: 4px outset black;
+	background-color: #BF5D30;
+	padding: 4px;
+	margin-left: 650px;
+	margin-right: 650px;
 }
